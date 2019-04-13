@@ -1,3 +1,7 @@
+// autorzy Adrian Witkowski & Matyszczak
+// data wykonania 6.04.2019
+// cel: Account
+
 public class Account {
     private String id;
     private String name;
